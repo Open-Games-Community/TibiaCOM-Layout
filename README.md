@@ -3,7 +3,6 @@
 ### Development
 - Finished ![Hopstarter-Rounded-Square-Button-Ok](https://user-images.githubusercontent.com/89811188/133524779-24574036-77dd-4a81-b579-8c9c0a6db52e.png)
 
-- Official Website: https://lepiigortv.com/
 - Download: https://opengamescommunity.com/index.php?resources/tibiacom-theme.37/
 
 - OTX 8X, database compatible with this layout: https://opengamescommunity.com/index.php?threads/database-otx-8x-para-tibiacom-layout.244/
